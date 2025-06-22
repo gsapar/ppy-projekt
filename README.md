@@ -104,10 +104,3 @@ Aplikacja wykorzystuje API **Have I Been Pwned** do sprawdzania, czy dane hasło
 1. Jeśli hasło zostało naruszone, aplikacja ostrzega użytkownika.
 2. Użytkownik może zdecydować, czy kontynuować, czy anulować operację.
 
----
-
-## Podziękowania
-
-- **Have I Been Pwned**: Za API do sprawdzania naruszeń haseł.
-- **Python Cryptography Library**: Za mechanizmy bezpiecznego szyfrowania.
-
