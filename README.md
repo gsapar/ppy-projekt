@@ -28,6 +28,7 @@ Prosty menedżer haseł, który pozwala użytkownikom przechowywać, generować,
 ## Instalacja
 
 ### Wymagania
+- System operacyjny Linux lub inny Unix-like (np. MacOS). Windows nie jest wspierany.
 - Python w wersji 3.7 lub wyższej
 - Biblioteki Python:
   - `cryptography`
