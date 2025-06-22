@@ -60,11 +60,12 @@ python main.py
 
 ### Opcje interaktywnego menu
 - **Add account**: Dodaj nowe konto z opcjonalnym generowaniem hasła.
+- **Get account**: Wyświetl wszystkie dane dotyczące wybranego konta.
 - **Edit account**: Zmień szczegóły istniejącego konta.
 - **Delete account**: Usuń konto na stałe.
-- **List accounts**: Wyświetl wszystkie przechowywane konta.
-- **Save file**: Zaszyfruj i zapisz konta do pliku.
-- **Load file**: Odszyfruj i wczytaj konta z pliku.
+- **List all accounts**: Wyświetl wszystkie przechowywane konta.
+- **Save to file**: Zaszyfruj i zapisz konta do pliku. Wymagane jest podanie relatywnej ścieżki do pliku (np. jeśli ma być zapisany w obecnym katalogu to jest to ./plik).
+- **Load file**: Odszyfruj i wczytaj konta z pliku. Wymagane jest podanie relatywnej ścieżki do pliku (np. jeśli plik jest w obecnym katalogu to jest to ./plik). 
 - **Exit**: Zamknij menedżer haseł.
 
 ---
