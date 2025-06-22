@@ -59,13 +59,13 @@ python main.py
 ```
 
 ### Opcje interaktywnego menu
-- **Add account.**: Dodaj nowe konto z opcjonalnym generowaniem hasła.
+- **Add account**: Dodaj nowe konto z opcjonalnym generowaniem hasła.
 - **Edit account**: Zmień szczegóły istniejącego konta.
-- **Delete account.**: Usuń konto na stałe.
-- **List accounts.**: Wyświetl wszystkie przechowywane konta.
-- **Save file.**: Zaszyfruj i zapisz konta do pliku.
-- **Load file.**: Odszyfruj i wczytaj konta z pliku.
-- **Exit.**: Zamknij menedżer haseł.
+- **Delete account**: Usuń konto na stałe.
+- **List accounts**: Wyświetl wszystkie przechowywane konta.
+- **Save file**: Zaszyfruj i zapisz konta do pliku.
+- **Load file**: Odszyfruj i wczytaj konta z pliku.
+- **Exit**: Zamknij menedżer haseł.
 
 ---
 
